@@ -16,5 +16,5 @@ Nossa plataforma online funciona como um hub de transparência. Nela, qualquer a
 
 ## Recursos do Projeto
 * **Website/Dashboard:** [[Streamlit]](https://fields-uranio.streamlit.app/)
-*  
+   
 Para rodar o projeto digite na linha de comando 'python main.py start'.
